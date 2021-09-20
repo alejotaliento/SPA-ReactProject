@@ -1,7 +1,11 @@
 {
   "name": "spa-react-project",
   "version": "0.1.0",
-  "private": true,
+  "author": "Alejo Taliento",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alejotaliento/SPA-ReactProject.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
